@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="120" src="https://firebasestorage.googleapis.com/v0/b/e-commerc-7be4b.appspot.com/o/fire-powers.gif?alt=media&token=19b9e7a6-186b-4484-ad7c-0ff8129801f3"  />
+<img align="right" height="120" src="https://cdn.discordapp.com/attachments/979850279417704478/1240030679807295498/fire-powers.gif?ex=66451410&is=6643c290&hm=536268d307f521b9eaa1d2dd3367e1739f63b5f4c6d7aca1769bc2d87a621883&"  />
 
 ###
 
