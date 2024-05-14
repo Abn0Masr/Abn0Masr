@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -58,21 +58,6 @@
 
 <br clear="both"/>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31l5ticmnhvgx6qxxzopeigxfo6y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l5ticmnhvgx6qxxzopeigxfo6y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abn0Masr/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abn0Masr/Abn0Masr/output/snake.svg" alt="Snake animation" />
 
@@ -80,6 +65,14 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Abn0Masr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31l5ticmnhvgx6qxxzopeigxfo6y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l5ticmnhvgx6qxxzopeigxfo6y&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
