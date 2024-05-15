@@ -2,10 +2,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abn0Masr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abn0Masr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Abn0Masr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ 
 </div>
 
 ###
@@ -91,9 +91,10 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://open.spotify.com/user/31l5ticmnhvgx6qxxzopeigxfo6y">
+  <a href="https://open.spotify.com/user/31l5ticmnhvgx6qxxzopeigxfo6y" align="left">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31l5ticmnhvgx6qxxzopeigxfo6y&count=5&unique=false" alt="Spotify recently played"  />
   </a>
+   <img src="https://streak-stats.demolab.com?user=Abn0Masr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" align="right" />
 </div>
 
 ###
@@ -103,3 +104,4 @@
 </div>
 
 ###
+
