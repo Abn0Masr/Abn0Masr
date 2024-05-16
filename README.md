@@ -9,11 +9,9 @@
 
 ###
 
-<br clear="both">
+<br clear="both"/>
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/4954aa9a0d9f6c3d64d4e808bee6697e260c8a2c3772fa3c094609bd8a1e0719/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937393835303237393431373730343437382f313234303033303637393830373239353439382f666972652d706f776572732e6769663f65783d36363435313431302669733d363634336332393026686d3d3533363236386433303766353231623965616131643264643333363765313733396636336235663463366437616361313736396263326438376136323138383326"  />
-
-###
 
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -63,6 +61,8 @@
 
 ###
 
+<br clear="both"/>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-elsharif-43467b26a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -77,21 +77,13 @@
 
 ###
 
-<br clear="both">
+<br clear="both"/>
 
 <img src="https://raw.githubusercontent.com/Abn0Masr/Abn0Masr/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mori_lover&theme=dracula" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<br clear="both">
+<br clear="both"/>
 
 <div align="left">
   <a href="https://open.spotify.com/user/31l5ticmnhvgx6qxxzopeigxfo6y" align="left">
@@ -102,9 +94,18 @@
 
 ###
 
+<br clear="both"/>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Abn0Masr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mori_lover&theme=dracula" alt="Layout with last medium posts"  />
+</div>
+
+###
