@@ -29,7 +29,7 @@
 Student. Full-stack developer. React, Node.js.
 
 - Now 🚀 working on: <a href="https://github.com/Abn0Masr/e_commerce_frontend.git" target="blank">E-commerce</a> Project.
-- Hope to learn: Kotlin
+- Started learn: Kotlin
 - 💬 Ask me about: React and Node.js
 
 ###
